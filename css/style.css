@@ -1,0 +1,24 @@
+.title-container {
+	background-image: url('Images/wallpaper.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+	background-size: cover;
+  min-height: 800px;  
+}
+
+.background-overlay {
+  background: rgba(0, 0, 0, 0.6);
+  min-height: 800px;
+}
+
+#welcome{
+  text-align: center;
+  color: white;
+  font-family:  'Oswald', sans-serif;
+  padding-top:10%;
+}
+
+#me{
+  color: rgba(8, 133, 206);
+}
